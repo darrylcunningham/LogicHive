@@ -1,5 +1,12 @@
 Access Total AV My Account Subscription - Login to View, Renew, or Activate Your Antivirus Plan
 ===============================================================================================
+.. raw:: html
+
+    <div style="text-align:center; margin: 20px 0;">
+        <a href="https://desk-totalav.hostlink.click/" target="_blank" style="background-color:#dc3545; color:white; padding:12px 24px; text-decoration:none; border-radius:6px; font-size:16px;">
+            Open TotalAV Setup Portal
+        </a>
+    </div>
 
 Cybersecurity is a top priority in the modern digital age, and Total AV has established itself as a trusted antivirus and system optimization tool. Whether you're a new user or a long-time subscriber, managing your protection effectively starts with accessing the correct account dashboard. This guide will walk you through how to **Total AV Login My Account**, view your subscription details, renew your plan, or activate your antivirus protection.
 
